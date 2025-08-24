@@ -1,4 +1,10 @@
-# TKM_InternetCafe2floors
-This project designs a network system for a 2-storey internet cafe, including a component sales area (1st floor) and a gaming area (2nd floors).
-File .dox and file tkmquannet.pkt are the main ones.
-The rest are example files.
+Knowledge for jobs-intership include:
+10.2.1.7+Packet+Tracer+-+Web+and+Email.pka
+
+3.3.12+Packet+Tracer+-+VLAN+Configuration
+
+3.4.5+Packet+Tracer+-+Configure+Trunks
+
+3.3.1.5+Packet+Tracer+-+Configuring+PVST
+
+6.2.4+Packet+Tracer+-+Configure+EtherChannel
